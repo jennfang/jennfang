@@ -33,19 +33,17 @@ a {
     text-align: center;
 }
  
-img{
-  display: block;
-	height: auto;
-	width: auto;
-	margin: auto;
-  
+#pic{
+  position: relative;
+  width: 1000px;
+	margin-left: -100px;  
 }
 span {
 	font-weight: 500;
 	font-family: Verdana, sans-serif;
 	font-size: 18px;
 	color: #ffffff;
-	margin-top: 20px;
+	margin-top: 100px;
 }
 
 .btn {
